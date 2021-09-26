@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# A library is a collection of sources of information and similar resources, made accessible to a defined community for reference or borrowing
+
+# Here is our some collections of books that you can buy here
+
+# Find your book just one click
+
 ## Available Scripts
 
 In the project directory, you can run:
