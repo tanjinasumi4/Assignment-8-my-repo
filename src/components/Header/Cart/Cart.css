@@ -1,0 +1,8 @@
+.btn-buy{
+    background-color: steelblue;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5%;
+    border:1px solid gray;
+}
